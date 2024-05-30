@@ -4,7 +4,10 @@
 ### bước 2: lưu code & đặt tên file là meow.mjs
 ### bước 3: điền body và params vào url
 ### bước 4: chạy lệnh: node meow.mjs
-!get_token.png!
+<div align="center">
+    <img src="./get_token.png">
+    <br>
+</div>
 ## Using node js to mining game Supper meow
 ### Join game here: https://t.me/supermeow_vip_bot?start=1811412447
 ### step 1: run: npm i node-fetch
